@@ -1,10 +1,10 @@
 👋:"Hello World", Pranjal Batra (PB4trA) this side.
  
- 🎯:Aim to contribute to make world a better place
+🎯:Aim to contribute to make world a better place
 
 👨‍💻: Using Python and Machine Learning for the same.
 
-👨‍: Any Suggestions and learning opportunities are most welcome
+🤝: Any suggestions and opportunities are most welcome
 
 📫: contact me -- pranjalbatra92@gmail.com
 <!---
